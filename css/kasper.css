@@ -220,7 +220,7 @@ header nav .form i {
 .landing {
     min-height: 100vh;
     background-color: #1f2021;
-    background-image: url(../images/landing.jpg);
+    background-image: url("../images/landing.jpg");
     background-size: cover;
     position: relative;
 }
@@ -613,7 +613,7 @@ header nav .form i {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     text-align: center;
-    background-image: url(../images/stats.png);
+    background-image: url("../images/stats.png");
     background-size: cover;
     position: relative;
 }
@@ -1125,7 +1125,7 @@ header nav .form i {
 .footer {
     padding-top: calc(var(--section-padding) /2);
     padding-bottom: calc(var(--section-padding) /2);
-    background-image: url(../images/subscribe.jpg);
+    background-image: url("../images/subscribe.jpg");
     background-size: cover;
     position: relative;
     color: white;
