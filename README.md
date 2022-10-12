@@ -1,2 +1,2 @@
-# kasper-template
-kasper html&amp;Css template
+# Kasper-template
+Kasper static html&amp;Csss website
